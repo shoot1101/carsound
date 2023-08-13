@@ -4,7 +4,7 @@ lua54 'yes'
 
 author 'Bob & Co'
 description 'CarSound'
-version '1.0.0'
+version '1.0.1'
 
 files {
 	"audioconfig/*.dat151.rel",
@@ -285,3 +285,41 @@ data_file 'AUDIO_SYNTHDATA' 'audioconfig/z33u2_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/z33u2_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/z33u2_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_z33u2'
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq46forgtebv6_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq46forgtebv6_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq46forgtebv6'
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq56honf20c_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq56honf20c_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq56honf20c'
+
+data_file "AUDIO_SYNTHDATA" "audioconfig/kc61evo10rally_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/kc61evo10rally_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/kc61evo10rally_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_kc61evo10rally"
+
+data_file "AUDIO_SYNTHDATA" "audioconfig/kc135bm36_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/kc135bm36_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/kc135bm36_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_kc135bm36"
+
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg87skodar5rally_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg87skodar5rally_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg87skodar5rally_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg87skodar5rally"
+
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg88camstang_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg88camstang_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg88camstang_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg88camstang"
+
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg116slsamg_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg116slsamg_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg116slsamg_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg116slsamg"
+
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg123murcisp_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg123murcisp_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg123murcisp_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg123murcisp"
