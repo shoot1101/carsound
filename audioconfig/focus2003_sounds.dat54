@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+ <Version value="9028036" />
+ <NameTable>
+  <Item>DLC_focus2003\focus2003_NPC</Item>
+  <Item>0</Item>
+  <Item>DLC_focus2003\focus2003</Item>
+  <Item>RESIDENT\VEHICLES</Item>
+  <Item>RESIDENT\WEAPONS</Item>
+ </NameTable>
+ <Items>
+  <Item type="ModularSynthSound">
+   <Name>focus2003_synth_veh_idle_sub_supercharged</Name>
+   <Header>
+    <Flags value="0x00008015" />
+    <Flags2 value="0xAAA8AAAA" />
+    <Unk02 value="64836" />
+    <Unk04 value="1200" />
+    <Category>vehicles_extras_loud</Category>
+   </Header>
+   <OptAmpUnkHash>hash_179B63E4</OptAmpUnkHash>
+   <UnkHash />
+   <UnkFloat value="-1" />
+   <UnkInt value="0" />
+   <TrackCount value="0" />
+   <AudioTracks>
+    <Item />
+    <Item />
+    <Item />
+    <Item />
+   </AudioTracks>
+   <UnkItems>
+    <Item>
+     <UnkHash>hash_ABD2A3D6</UnkHash>
+     <ParameterHash />
+     <Value value="14" />
+    </Item>
+    <Item>
+     <UnkHash>hash_AAED9868</UnkHash>
+     <ParameterHash />
+     <Value value="51" />
+    </Item>
+    <Item>
+     <UnkHash>hash_4E132C3B</UnkHash>
+     <ParameterHash />
+     <Value value="1.5" />
+    </Item>
+    <Item>
+     <UnkHash>hash_24E7B0B4</UnkHash>
+     <ParameterHash />
+     <Value value="1" />
+    </Item>
+    <Item>
+     <UnkHash>hash_7E8B1429</UnkHash>
+     <ParameterHash />
+     <Value value="1" />
+    </Item>
+    <Item>
+     <UnkHash>hash_667DE3B3</UnkHash>
+     <ParameterHash />
+     <Value value="0.3" />
+    </Item>
+    <Item>
+     <UnkHash>hash_764797A1</UnkHash>
+     <ParameterHash />
+     <Value value="20" />
+    </Item>
+    <Item>
+     <UnkHash>hash_C32CC134</UnkHash>
+     <ParameterHash />
+     <Value value="0.7" />
+    </Item>
+    <Item>
+     <UnkHash>hash_1DC582D6</UnkHash>
+     <ParameterHash />
+     <Value value="0.18" />
+    </Item>
+    <Item>
+     <UnkHash>hash_3F8AD907</UnkHash>
+     <ParameterHash />
+     <Value value="1.1" />
+    </Item>
+    <Item>
+     <UnkHash>hash_56D36C02</UnkHash>
+     <ParameterHash>hash_51384371</ParameterHash>
+     <Value value="1" />
+    </Item>
+   </UnkItems>
+  </Item>
+  <Item type="ModularSynthSound">
+   <Name>hash_42AF3396</Name>
+   <Header>
+    <Flags value="0x00000001" />
+    <Flags2 value="0xAAA8AAAA" />
+   </Header>
+   <OptAmpUnkHash>hash_7503C920</OptAmpUnkHash>
+   <UnkHash />
+   <UnkFloat value="-1" />
+   <UnkInt value="0" />
+   <TrackCount value="0" />
+   <AudioTracks>
+    <Item />
+    <Item />
+    <Item />
+    <Item />
+   </AudioTracks>
+   <UnkItems />
+  </Item>
+  <Item type="EnvironmentSound">
+   <Name>focus2003_exhaust_accel</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>hash_F7C35252</Category>
+   </Header>
+   <UnkByte value="1" />
+  </Item>
+  <Item type="GranularSound">
+   <Name>focus2003_engine_accel_npc</Name>
+   <Header>
+    <Flags value="0x00008001" />
+    <Flags2 value="0x9555AAAA" />
+    <Category>hash_F7C35252</Category>
+   </Header>
+   <WaveSlotIndex value="0" />
+   <Wave1>
+    <ContainerName>dlc_focus2003/focus2003_npc</ContainerName>
+    <FileName>engine_accel</FileName>
+   </Wave1>
+   <Wave2>
+    <ContainerName>dlc_focus2003/focus2003_npc</ContainerName>
+    <FileName>exhaust_accel</FileName>
+   </Wave2>
+   <Wave3>
+    <ContainerName>0</ContainerName>
+    <FileName />
+   </Wave3>
+   <Wave4>
+    <ContainerName>0</ContainerName>
+    <FileName />
+   </Wave4>
+   <Wave5>
+    <ContainerName>dlc_focus2003/focus2003_npc</ContainerName>
+    <FileName>engine_idle</FileName>
+   </Wave5>
+   <Wave6>
+    <ContainerName>dlc_focus2003/focus2003_npc</ContainerName>
+    <FileName>exhaust_idle</FileName>
+   </Wave6>
+   <DataItem1>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem1>
+   <DataItem2>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem2>
+   <DataItem3>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="1" />
+    <UnkFloat value="1" />
+   </DataItem3>
+   <DataItem4>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="1" />
+    <UnkFloat value="1" />
+   </DataItem4>
+   <DataItem5>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem5>
+   <DataItem6>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem6>
+   <UnkFloat0 value="0.01" />
+   <UnkFloat1 value="0.05" />
+   <UnkShort0 value="-600" />
+   <UnkShort1 value="-600" />
+   <UnkShort2 value="-300" />
+   <UnkShort3 value="0" />
+   <UnkShort4 value="-600" />
+   <UnkShort5 value="-600" />
+   <TrackName />
+   <UnkVecData>
+    14.6, 51.5
+    14.2, 14.2
+   </UnkVecData>
+  </Item>
+  <Item type="GranularSound">
+   <Name>focus2003_engine_accel</Name>
+   <Header>
+    <Flags value="0x00008001" />
+    <Flags2 value="0x9555AAAA" />
+    <Category>hash_F7C35252</Category>
+   </Header>
+   <WaveSlotIndex value="0" />
+   <Wave1>
+    <ContainerName>dlc_focus2003/focus2003</ContainerName>
+    <FileName>engine_accel</FileName>
+   </Wave1>
+   <Wave2>
+    <ContainerName>dlc_focus2003/focus2003</ContainerName>
+    <FileName>exhaust_accel</FileName>
+   </Wave2>
+   <Wave3>
+    <ContainerName>dlc_focus2003/focus2003</ContainerName>
+    <FileName>engine_decel</FileName>
+   </Wave3>
+   <Wave4>
+    <ContainerName>dlc_focus2003/focus2003</ContainerName>
+    <FileName>exhaust_decel</FileName>
+   </Wave4>
+   <Wave5>
+    <ContainerName>dlc_focus2003/focus2003</ContainerName>
+    <FileName>engine_idle</FileName>
+   </Wave5>
+   <Wave6>
+    <ContainerName>dlc_focus2003/focus2003</ContainerName>
+    <FileName>exhaust_idle</FileName>
+   </Wave6>
+   <DataItem1>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem1>
+   <DataItem2>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="0.5" />
+   </DataItem2>
+   <DataItem3>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="1" />
+    <UnkFloat value="1" />
+   </DataItem3>
+   <DataItem4>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="0" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="1" />
+    <UnkFloat value="1" />
+   </DataItem4>
+   <DataItem5>
+    <UnkFlags0 value="0" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem5>
+   <DataItem6>
+    <UnkFlags0 value="1" />
+    <UnkFlags1 value="1" />
+    <UnkByte0 value="0" />
+    <UnkByte1 value="0" />
+    <UnkFloat value="1" />
+   </DataItem6>
+   <UnkFloat0 value="0.01" />
+   <UnkFloat1 value="0.05" />
+   <UnkShort0 value="-600" />
+   <UnkShort1 value="-600" />
+   <UnkShort2 value="-300" />
+   <UnkShort3 value="0" />
+   <UnkShort4 value="-600" />
+   <UnkShort5 value="-600" />
+   <TrackName />
+   <UnkVecData>
+    10.0, 51.1
+    6.5, 6.5
+   </UnkVecData>
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hash_C5632AE4</Name>
+   <Header>
+    <Flags value="0x00000040" />
+    <Unk06 value="0" />
+   </Header>
+   <ContainerName>resident/weapons</ContainerName>
+   <FileName>hash_5F246C4E</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>hash_C326D3D1</Name>
+   <Header>
+    <Flags value="0x00048014" />
+    <Unk02 value="32000" />
+    <Unk04 value="200" />
+    <Category>vehicles_extras_loud</Category>
+    <Unk16 value="150" />
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes>FF FF FF</UnkBytes>
+   <Items>
+    <Item key="hash_E152A254" value="1" />
+    <Item key="hash_AEEE3D8C" value="1" />
+    <Item key="hash_BCE4D979" value="1" />
+   </Items>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>hash_8D9EFA5C</Name>
+   <Header>
+    <Flags value="0x00000010" />
+    <Unk04 value="65336" />
+   </Header>
+   <AudioHash0>hash_C326D3D1</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_0C2B85F2</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>hash_C326D3D1</Item>
+    <Item>hash_0C2B85F2</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="MultitrackSound">
+   <Name>hash_5B649A01</Name>
+   <Header>
+    <Flags value="0x00008001" />
+    <Flags2 value="0xAAA0AAAA" />
+    <Category>vehicles_extras_loud</Category>
+   </Header>
+   <AudioTracks>
+    <Item>hash_C326D3D1</Item>
+    <Item>hash_C5632AE4</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>hash_31AD137C</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>vehicles_extras_loud</Category>
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes>FF FF FF FF</UnkBytes>
+   <Items>
+    <Item key="hash_E152A254" value="1" />
+    <Item key="hash_AEEE3D8C" value="1" />
+    <Item key="hash_BCE4D979" value="1" />
+   </Items>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>hash_2042F5F8</Name>
+   <Header>
+    <Flags value="0x18000000" />
+    <Unk22 value="30" />
+    <Unk23 value="10" />
+   </Header>
+   <AudioHash0>hash_31AD137C</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_0C2B85F2</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>hash_31AD137C</Item>
+    <Item>hash_0C2B85F2</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="MultitrackSound">
+   <Name>hash_BB0F3F35</Name>
+   <Header>
+    <Flags value="0x00008001" />
+    <Flags2 value="0xAAA0AAAA" />
+    <Category>vehicles_extras_loud</Category>
+   </Header>
+   <AudioTracks>
+    <Item>hash_BAC30A58</Item>
+    <Item>hash_5C88584F</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>hash_5C88584F</Name>
+   <Header>
+    <Flags value="0x00000034" />
+    <Unk02 value="65136" />
+    <Unk04 value="4000" />
+    <Unk05 value="200" />
+   </Header>
+   <AudioHash0>hash_6095AA8D</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1 />
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>hash_6095AA8D</Item>
+    <Item />
+   </AudioTracks>
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hash_BCE4D979</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_focus2003/focus2003</ContainerName>
+   <FileName>hash_87AAD300</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hash_AEEE3D8C</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_focus2003/focus2003</ContainerName>
+   <FileName>hash_ECE29D6E</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hash_E152A254</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_focus2003/focus2003</ContainerName>
+   <FileName>hash_1990F6CA</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="WrapperSound">
+   <Name>focus2003_shutdown_wrapper</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <AudioHash0>dlc_focus2003_focus2003_shutdown</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_DAAFDA16</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>dlc_focus2003_focus2003_shutdown</Item>
+    <Item>hash_DAAFDA16</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>focus2003_startup_wrapper</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <AudioHash0>dlc_focus2003_focus2003_startup</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_B807DF3E</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>dlc_focus2003_focus2003_startup</Item>
+    <Item>hash_B807DF3E</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_focus2003_focus2003_startup</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>vehicles_extras_loud</Category>
+   </Header>
+   <ContainerName>dlc_focus2003/focus2003</ContainerName>
+   <FileName>start_up</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_focus2003_focus2003_shutdown</Name>
+   <Header>
+    <Flags value="0x00008000" />
+    <Category>vehicles_engines_startup</Category>
+   </Header>
+   <ContainerName>dlc_focus2003/focus2003</ContainerName>
+   <FileName>hash_E99B0DCB</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>dlc_focus2003_focus2003_horn</Name>
+   <Header>
+    <Flags value="0x0000E014" />
+    <Unk02 value="64936" />
+    <Unk04 value="900" />
+    <Unk11 value="50" />
+    <Unk12 value="30" />
+    <Category>vehicles_horns_loud</Category>
+   </Header>
+   <ContainerName>resident/vehicles</ContainerName>
+   <FileName>hash_C04F9AB2</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hash_D51F6DD5</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_focus2003/focus2003</ContainerName>
+   <FileName>hash_22FABE43</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hash_BF594249</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_focus2003/focus2003</ContainerName>
+   <FileName>hash_693BCAC4</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hash_B7F93389</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <ContainerName>dlc_focus2003/focus2003</ContainerName>
+   <FileName>hash_787F694B</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hash_6F41BE51</Name>
+   <Header>
+    <Flags value="0x00000034" />
+    <Unk02 value="32000" />
+    <Unk04 value="65336" />
+    <Unk05 value="25" />
+   </Header>
+   <ContainerName>dlc_focus2003/focus2003</ContainerName>
+   <FileName>hash_25D828D2</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="SimpleSound">
+   <Name>hash_6BCEF679</Name>
+   <Header>
+    <Flags value="0x00000004" />
+    <Unk02 value="32000" />
+   </Header>
+   <ContainerName>dlc_focus2003/focus2003</ContainerName>
+   <FileName>hash_3D48C1BF</FileName>
+   <WaveSlotNum value="0" />
+  </Item>
+  <Item type="RandomizedSound">
+   <Name>hash_B3076181</Name>
+   <Header>
+    <Flags value="0x00000024" />
+    <Unk02 value="32000" />
+    <Unk05 value="25" />
+   </Header>
+   <UnkByte value="0" />
+   <UnkBytes>FF</UnkBytes>
+   <Items>
+    <Item key="hash_B7F93389" value="1" />
+    <Item key="hash_BF594249" value="1" />
+    <Item key="hash_D51F6DD5" value="1" />
+   </Items>
+  </Item>
+  <Item type="MultitrackSound">
+   <Name>hash_3820DDB9</Name>
+   <Header>
+    <Flags value="0x00001001" />
+    <Flags2 value="0xAAA0AAAA" />
+    <Unk10 value="80" />
+   </Header>
+   <AudioTracks>
+    <Item>hash_B3076181</Item>
+    <Item>hash_6F41BE51</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="WrapperSound">
+   <Name>hash_0E94E71A</Name>
+   <Header>
+    <Flags value="0x0000800C" />
+    <Unk02 value="32000" />
+    <Unk03 value="100" />
+    <Category>vehicles_extras_loud</Category>
+   </Header>
+   <AudioHash0>hash_5EC34C86</AudioHash0>
+   <FrameStartTime value="0" />
+   <AudioHash1>hash_6E002307</AudioHash1>
+   <FrameTimeInterval value="0" />
+   <Variables />
+   <AudioTracks>
+    <Item>hash_5EC34C86</Item>
+    <Item>hash_6E002307</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="MultitrackSound">
+   <Name>hash_AF641EFB</Name>
+   <Header>
+    <Flags value="0x00000001" />
+    <Flags2 value="0xAAA0AAAA" />
+   </Header>
+   <AudioTracks>
+    <Item>hash_ED4853FC</Item>
+    <Item>hash_53FD80BB</Item>
+   </AudioTracks>
+  </Item>
+  <Item type="EnvelopeSound">
+   <Name>hash_E4E94E5D</Name>
+   <Header>
+    <Flags value="0x0000003D" />
+    <Flags2 value="0xAAA1AAAA" />
+    <Unk02 value="64636" />
+    <Unk03 value="200" />
+    <Unk04 value="65336" />
+    <Unk05 value="50" />
+   </Header>
+   <UnkShort0 value="0" />
+   <UnkShort1 value="0" />
+   <UnkShort2 value="0" />
+   <UnkShort3 value="0" />
+   <UnkByte0 value="100" />
+   <UnkByte1 value="0" />
+   <UnkInt0 value="800" />
+   <UnkShort4 value="0" />
+   <UnkInt1 value="500" />
+   <UnkInt2 value="0" />
+   <CurvesUnkHash0>hash_0D0E6F19</CurvesUnkHash0>
+   <CurvesUnkHash1>hash_94AE4ADD</CurvesUnkHash1>
+   <CurvesUnkHash2>hash_519B71B1</CurvesUnkHash2>
+   <ParameterHash0 />
+   <ParameterHash1 />
+   <ParameterHash2 />
+   <ParameterHash3>hash_96499EA2</ParameterHash3>
+   <ParameterHash4 />
+   <AudioHash>hash_6BCEF679</AudioHash>
+   <UnkInt3 value="0" />
+   <ParameterHash5 />
+   <UnkFloat0 value="-100" />
+   <UnkFloat1 value="0" />
+  </Item>
+  <Item type="VariableBlockSound">
+   <Name>hash_5EC34C86</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <AudioHash>hash_AF641EFB</AudioHash>
+   <Variables>
+    <Item>
+     <Name>hash_CF28C7B3</Name>
+     <Value value="0" />
+     <UnkFloat value="0" />
+     <Flags value="1" />
+    </Item>
+    <Item>
+     <Name>hash_96499EA2</Name>
+     <Value value="0" />
+     <UnkFloat value="0" />
+     <Flags value="0" />
+    </Item>
+   </Variables>
+  </Item>
+  <Item type="ParameterTransformSound">
+   <Name>hash_ED4853FC</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <AudioHash>hash_E4E94E5D</AudioHash>
+   <Items>
+    <Item>
+     <ParameterHash>hash_CF28C7B3</ParameterHash>
+     <UnkFloat0 value="0" />
+     <UnkFloat1 value="1" />
+     <NestedData>
+      <Item>
+       <UnkFloat0 value="-1" />
+       <UnkInt value="7" />
+       <ParameterHash>hash_96499EA2</ParameterHash>
+       <UnkFloat1 value="0" />
+       <UnkFloat2 value="0.8" />
+       <Vectors>
+        0, 0
+        0.56, 0.6316667
+        0.8259363, 0.7637778
+        1, 1
+       </Vectors>
+      </Item>
+      <Item>
+       <UnkFloat0 value="-1" />
+       <UnkInt value="1" />
+       <ParameterHash />
+       <UnkFloat1 value="0.7071068" />
+       <UnkFloat2 value="1" />
+       <Vectors>
+        0, 0.15
+        1, 1
+       </Vectors>
+      </Item>
+      <Item>
+       <UnkFloat0 value="-1" />
+       <UnkInt value="0" />
+       <ParameterHash />
+       <UnkFloat1 value="1E-05" />
+       <UnkFloat2 value="1" />
+       <Vectors>
+        0, 0.83
+        0.7592697, 0.9866667
+        1, 1
+       </Vectors>
+      </Item>
+     </NestedData>
+    </Item>
+   </Items>
+  </Item>
+  <Item type="ParameterTransformSound">
+   <Name>hash_53FD80BB</Name>
+   <Header>
+    <Flags value="0x00000000" />
+   </Header>
+   <AudioHash>hash_3820DDB9</AudioHash>
+   <Items>
+    <Item>
+     <ParameterHash>hash_CF28C7B3</ParameterHash>
+     <UnkFloat0 value="0" />
+     <UnkFloat1 value="1" />
+     <NestedData>
+      <Item>
+       <UnkFloat0 value="-1" />
+       <UnkInt value="0" />
+       <ParameterHash />
+       <UnkFloat1 value="1E-05" />
+       <UnkFloat2 value="1" />
+       <Vectors>
+        0, 0
+        0.2226, 0.129991
+        0.7066667, 0.1828516
+        0.87, 0.2660652
+        1, 0.2818311
+       </Vectors>
+      </Item>
+     </NestedData>
+    </Item>
+   </Items>
+  </Item>
+ </Items>
+</Dat54>
