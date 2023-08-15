@@ -5,33 +5,24 @@ English :
 
 Vehicle Sound Modification Guide
 
-This guide provides instructions on how to modify vehicle sounds in FiveM using the "carsound" resource. Follow the steps below to add or modify vehicle sounds according to your preferences.
+This guide provides instructions for modifying vehicle sounds in FiveM using the "carsound" resource. Follow the steps below to add or modify vehicle sounds according to your preferences.
 
 Step 1: Installing the carsound Resource
 
-Make sure you have FiveM already installed on your server. To add the "carsound" resource, follow these steps:
+Make sure you have already installed FiveM on your server. To add the "carsound" resource, follow these steps:
 
-Place the "carsound" folder in the "resources" directory of your FiveM server.
+Place the "carsound" folder into the "resources" directory of your FiveM server.
 In your server's server.cfg file, add the following line: ensure carsound.
-Then, restart your FiveM server for the changes to take effect.
-Step 2: Vehicle Sound Modification
+Restart your FiveM server to apply the changes.
+Step 2: Modifying Vehicle Sounds
 
-Open the vehicles.meta file of the vehicle you wish to modify. You can usually find this file in the vehicle's data folder.
-Look for the line that looks like this: <audioNameHash>(sound name played)</audioNameHash>. This line indicates the name of the sound being played by the vehicle.
-Replace the "sound name played" with the name of the sound you want to use. Use the appropriate format: <audioNameHash>sound_name</audioNameHash>. Ensure that the sound name matches the one you have in your "carsound" resource.
-Example:
+Open the vehicles.meta file of the vehicle you want to modify. You can usually find this file in the vehicle's data folder. Look for the line that looks like this: (played sound name). This line indicates the name of the sound played by the vehicle. Replace the "(played sound name)" with the name of the sound you want to use. Use the proper format: sound_name. Make sure the sound name matches the one you have in your "carsound" resource. Example:
 
-If you want to use the sound named "dlc_aq11bmw298cc," replace the line <audioNameHash>(sound name played)</audioNameHash> with <audioNameHash>aq11bmw298cc</audioNameHash>.
+If you want to use the sound named "dlc_aq11bmw298cc", replace the line (played sound name) with aq11bmw298cc.
 
 Step 3: Final Configuration
 
 Once you have made the modifications in the vehicles.meta file, save it and restart your FiveM server to apply the changes.
-
-That's it! You have successfully modified vehicle sounds in FiveM using the "carsound" resource.
-
-Remember to back up your original files before making changes and test modifications in a testing environment before applying them to your live server.
-
-If you have any questions or encounter issues, feel free to consult the FiveM documentation or seek help on the FiveM community forums.
 
 
 Francais :
