@@ -386,8 +386,37 @@ data_file "AUDIO_GAMEDATA" "audioconfig/lg116slsamg_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/lg116slsamg_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_lg116slsamg"
 
---Lamborghini Murcielago Straight Piped Exhaust V12 
+-- Lamborghini Murcielago Straight Piped Exhaust V12 
 data_file "AUDIO_SYNTHDATA" "audioconfig/lg123murcisp_amp.dat"
 data_file "AUDIO_GAMEDATA" "audioconfig/lg123murcisp_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/lg123murcisp_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_lg123murcisp"
+
+-- Nissan Safari SD33T
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq39nissd33t_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq39nissd33t_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq39nissd33t'
+
+-- Mercedes-amg-clk-gtr
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg188maz20b_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg188maz20b_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg188maz20b_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg188maz20b"
+
+-- Mazda 20B 3 Rotor
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg187clkgtr_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg187clkgtr_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg187clkgtr_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg187clkgtr"
+
+-- Formule1
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg115classicf1v10_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg115classicf1v10_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg115classicf1v10_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg115classicf1v10"
+
+-- Lamborghini Countach V12
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg97lamctch_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg97lamctch_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg97lamctch_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg97lamctch"
