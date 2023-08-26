@@ -420,3 +420,44 @@ data_file "AUDIO_SYNTHDATA" "audioconfig/lg97lamctch_amp.dat"
 data_file "AUDIO_GAMEDATA" "audioconfig/lg97lamctch_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/lg97lamctch_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_lg97lamctch"
+
+-- Ford Mustang GT v8
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg57mustangtv8_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg57mustangtv8_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg57mustangtv8_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg57mustangtv8"
+
+-- BMW M3
+data_file "AUDIO_GAMEDATA" "audioconfig/aq45bmws14b23_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/aq45bmws14b23_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_aq45bmws14b23"
+
+-- Chevrolet 350 5.7L V8
+data_file "AUDIO_SYNTHDATA" "audioconfig/kc68chevy350l48_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/kc68chevy350l48_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/kc68chevy350l48_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_kc68chevy350l48"
+
+-- Ferrari 488 Pista
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg53fer488capri_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg53fer488capri_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg53fer488capri_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg53fer488capri"
+
+-- Mitsubishi Lancer Evo
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg54evoxtun_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg54evoxtun_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg54evoxtun_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg54evoxtun"
+
+-- 911_GT3RS
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg157por911_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg157por911_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg157por911_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg157por911"
+
+-- Mazda
+data_file "AUDIO_GAMEDATA" "audioconfig/aq31maz13btune_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/aq31maz13btune_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_aq31maz13btune"
+
