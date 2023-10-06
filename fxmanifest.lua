@@ -4,7 +4,7 @@ lua54 'yes'
 
 author 'Bob & Co'
 description 'CarSound'
-version '1.0.4'
+version '1.0.5'
 
 files {
 	"audioconfig/*.dat151.rel",
