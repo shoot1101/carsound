@@ -461,3 +461,27 @@ data_file "AUDIO_GAMEDATA" "audioconfig/aq31maz13btune_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/aq31maz13btune_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_aq31maz13btune"
 
+-- Honda K20A 
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq58honk20a_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq58honk20a_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq58honk20a'
+
+-- TWIN-TURBO BENTLEY CONTINENTAL GT
+data_file 'AUDIO_GAMEDATA' 'audioconfig/bcontinentalgt_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/bcontinentalgt_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_bcontinentalgt'
+
+-- Mitsubishi 4G63T 
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq57mit4g63t_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq57mit4g63t_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq57mit4g63t'
+
+-- R1200 GS Akrapovic
+data_file "AUDIO_GAMEDATA" "audioconfig/kc12r1200gsakrapovic_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/kc12r1200gsakrapovic_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_kc12r1200gsakrapovic"
+
+-- Kawasaki Ninja ZX-10R
+data_file "AUDIO_GAMEDATA" "audioconfig/kc144kawazx10rsc_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/kc144kawazx10rsc_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_kc144kawazx10rsc"
