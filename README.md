@@ -25,6 +25,12 @@ Step 3: Final Configuration
 Once you have made the modifications in the vehicles.meta file, save it and restart your FiveM server to apply the changes.
 
 
+I am not the creator of the sounds; they all come from the website https://www.gta5-mods.com/
+
+I am only creating this pack to facilitate its usage.
+
+
+
 Francais :
 
 Guide de Modification de Sons de Véhicules
@@ -51,3 +57,9 @@ Si vous souhaitez utiliser le son nommé "dlc_aq11bmw298cc", remplacez la ligne 
 Étape 3 : Configuration Finale
 
 Une fois que vous avez effectué les modifications dans le fichier vehicles.meta, enregistrez-le et redémarrez votre serveur FiveM pour que les changements prennent effet.
+
+
+
+Je ne suis pas le créateur des sons, ils proviennent tous du site https://www.gta5-mods.com/.
+
+Je ne fais que ce pack pour faciliter son utilisation.
