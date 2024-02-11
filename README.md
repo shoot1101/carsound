@@ -25,9 +25,9 @@ Step 3: Final Configuration
 Once you have made the modifications in the vehicles.meta file, save it and restart your FiveM server to apply the changes.
 
 
-I am not the creator of the sounds; they all come from the website https://www.gta5-mods.com/
+I am not the creator of the sounds; they all come from the website : https://www.gta5-mods.com/
 
-I am only creating this pack to facilitate its usage.
+I only make this pack to make it easier for users to have several sounds in one resource.
 
 
 
@@ -60,6 +60,6 @@ Une fois que vous avez effectué les modifications dans le fichier vehicles.meta
 
 
 
-Je ne suis pas le créateur des sons, ils proviennent tous du site https://www.gta5-mods.com/.
+Je ne suis pas le créateur des sons, ils proviennent tous du site : https://www.gta5-mods.com/.
 
-Je ne fais que ce pack pour faciliter son utilisation.
+Je ne fais que ce pack pour faciliter les utilisateurs à avoir plusieurs sons en une resource.
