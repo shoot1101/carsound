@@ -269,11 +269,6 @@ data_file 'AUDIO_GAMEDATA' 'audioconfig/predatorv8_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/predatorv8_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_predatorv8'
 
--- OLD GT-R R35 
-data_file 'AUDIO_GAMEDATA' 'audioconfig/r35sound_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audioconfig/r35sound_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_r35sound'
-
 -- Nissan Skyline R32/R33/R34 RB26DETT I6
 data_file 'AUDIO_SYNTHDATA' 'audioconfig/rb26dett_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/rb26dett_game.dat'
@@ -461,27 +456,42 @@ data_file "AUDIO_GAMEDATA" "audioconfig/aq31maz13btune_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/aq31maz13btune_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_aq31maz13btune"
 
--- Honda K20A 
-data_file 'AUDIO_GAMEDATA' 'audioconfig/aq58honk20a_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq58honk20a_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq58honk20a'
-
 -- TWIN-TURBO BENTLEY CONTINENTAL GT
 data_file 'AUDIO_GAMEDATA' 'audioconfig/bcontinentalgt_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/bcontinentalgt_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_bcontinentalgt'
 
--- Mitsubishi 4G63T 
-data_file 'AUDIO_GAMEDATA' 'audioconfig/aq57mit4g63t_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq57mit4g63t_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq57mit4g63t'
+-- BMW M3
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq70bmws58_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq70bmws58_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq70bmws58'
 
--- R1200 GS Akrapovic
-data_file "AUDIO_GAMEDATA" "audioconfig/kc12r1200gsakrapovic_game.dat"
-data_file "AUDIO_SOUNDDATA" "audioconfig/kc12r1200gsakrapovic_sounds.dat"
-data_file "AUDIO_WAVEPACK" "sfx/dlc_kc12r1200gsakrapovic"
+-- Ferrari Colombo 250 V12
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq72fer250v12_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq72fer250v12_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq72fer250v12'
 
--- Kawasaki Ninja ZX-10R
-data_file "AUDIO_GAMEDATA" "audioconfig/kc144kawazx10rsc_game.dat"
-data_file "AUDIO_SOUNDDATA" "audioconfig/kc144kawazx10rsc_sounds.dat"
-data_file "AUDIO_WAVEPACK" "sfx/dlc_kc144kawazx10rsc"
+-- Ford Shelby
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq71for427fe_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq71for427fe_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq71for427fe'
+
+-- Lamborghini Huracan
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq68lam52v10_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq68lam52v10_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq68lam52v10'
+
+-- Mercedes AMG 63
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq67merm177_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq67merm177_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq67merm177'
+
+-- Pagani Zonda M297 AMG V12
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq59pagm297_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq59pagm297_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq59pagm297'
+
+-- RS3
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq66audea855_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq66audea855_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq66audea855'
