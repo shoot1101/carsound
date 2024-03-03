@@ -1,7 +1,14 @@
-# carsound
+# 🔊 Carsound
 60+ Custom Engine sound Fivem
 
-English :
+
+![GitHub followers](https://img.shields.io/github/followers/shoot1101?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/shoot1101/carsound?style=for-the-badge) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]((https://discord.gg/X36mxQTk5b)) ![Twitch Status](https://img.shields.io/twitch/status/BobMarly1?style=for-the-badge)
+
+
+## **ℹ️ Informations**
+
+
+**English** :
 
 Vehicle Sound Modification Guide
 
@@ -31,7 +38,7 @@ I only make this pack to make it easier for users to have several sounds in one 
 
 
 
-Francais :
+**Francais** :
 
 Guide de Modification de Sons de Véhicules
 
@@ -59,7 +66,25 @@ Si vous souhaitez utiliser le son nommé "dlc_aq11bmw298cc", remplacez la ligne 
 Une fois que vous avez effectué les modifications dans le fichier vehicles.meta, enregistrez-le et redémarrez votre serveur FiveM pour que les changements prennent effet.
 
 
+## **🧱Exigences et ⚙️Configuration**
 
-Je ne suis pas le créateur des sons, ils proviennent tous du site : https://www.gta5-mods.com/.
 
-Je ne fais que ce pack pour faciliter les utilisateurs à avoir plusieurs sons en une resource.
+```lua
+ensure carsound
+```
+
+## **💌Crédits**
+
+
+* I'd also like to mention that the content of this pack comes mainly from 5MODS, as no comparable package has been available until now. Many thanks to the original creators for their fantastic work! Please don't hesitate to contact me if there's any specific content you'd like to see removed!
+
+* Je voudrais également mentionner que le contenu de ce pack provient principalement de 5MODS, car aucun package comparable n'était disponible jusqu'à présent. Un grand merci aux créateurs originaux pour leur travail fantastique ! N'hésitez pas à me contacter s'il y a des contenus spécifiques que vous aimeriez voir supprimés !
+
+
+## **⚠️Licence**
+
+
+* If you are a creator and don't want the sound to be here on GitHub, just create an issue and pull request!
+* Si vous êtes un créateur et que vous ne voulez pas que les sons soient ici sur GitHub, créez simplement un problème et une pull request !
+
+
