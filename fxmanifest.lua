@@ -4,13 +4,18 @@ lua54 'yes'
 
 author 'Bob & Co'
 description 'CarSound'
-version '1.0.6'
+version '1.0.7'
 
 files {
 	"audioconfig/*.dat151.rel",
 	"audioconfig/*.dat54.rel",
 	"audioconfig/*.dat10.rel",
 	"sfx/**/*.awc"
+}
+
+server_scripts {
+	'config.lua',
+	'server/*.lua',
 }
 
 -- F&F Toyota Supra 2JZ I6 Sound
