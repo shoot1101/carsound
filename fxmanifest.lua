@@ -187,12 +187,6 @@ data_file 'AUDIO_GAMEDATA' 'audioconfig/lg21focusrs_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/lg21focusrs_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lg21focusrs'
 
--- Honda S2000 F20C I4 
-data_file "AUDIO_SYNTHDATA" "audioconfig/lg56hons2k_amp.dat"
-data_file "AUDIO_GAMEDATA" "audioconfig/lg56hons2k_game.dat"
-data_file "AUDIO_SOUNDDATA" "audioconfig/lg56hons2k_sounds.dat"
-data_file "AUDIO_WAVEPACK" "sfx/dlc_lg56hons2k"
-
 -- Yamaha Raptor 700cc I1 
 data_file "AUDIO_SYNTHDATA" "audioconfig/lgcyc00qbike700_amp.dat"
 data_file "AUDIO_GAMEDATA" "audioconfig/lgcyc00qbike700_game.dat"
