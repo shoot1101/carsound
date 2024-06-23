@@ -4,7 +4,7 @@ lua54 'yes'
 
 author 'Bob & Co'
 description 'CarSound'
-version '1.0.7'
+version 'v1.0.8'
 
 files {
 	"audioconfig/*.dat151.rel",
@@ -494,3 +494,18 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq59pagm297'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/aq66audea855_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq66audea855_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq66audea855'
+
+-- R8 RS
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq83aud42v8b8_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq83aud42v8b8_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq83aud42v8b8'
+
+-- McLaren
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq82mclm838t_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq82mclm838t_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq82mclm838t'
+
+--Subaru Legacy
+data_file 'AUDIO_GAMEDATA' 'audioconfig/aq75subej255_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/aq75subej255_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_aq75subej255'
